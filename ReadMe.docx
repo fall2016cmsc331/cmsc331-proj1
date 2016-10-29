@@ -4,6 +4,41 @@ cmsc331-proj1
  All of the files will be listed in the folder "cmsc331-proj1" under the username "fall2016cmsc331".
 
 The names of the files are as following:
+•	advisorCreater.html
+•	advisorCreater.php
+•	advisor.css
+•	advisorHeadHTML.html
+•	appointmentOptions.html
+•	appointmentPage.php
+•	calendar.css
+•	calendar.php
+•	cancelPage.php
+•	cancel.php
+•	commonMethods.php
+•	confirmation.php
+•	favicon.png
+•	group1.php
+•	group.php
+•	individual.php
+•	indiv.php
+•	login.html
+•	login.php
+•	logout.php
+•	menu.php
+•	newAppt.php
+•	processMenu.php
+•	registration.css
+•	regSheet.php
+•	results.php
+•	sheet.php
+•	signUpOption.html
+•	standard.css
+•	startCal.php
+•	student.css
+•	studentHeadHTML.html
+•	style.css
+•	tailHTML.html
+•	viewAppt.php
 
 
 In order to download and use the project, download the whole folder into the "swe2016" folder in the GL system.
